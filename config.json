@@ -1,0 +1,69 @@
+{
+	"records": "All commands",
+	"commands":[	
+		{
+			"method":"mkdir data",
+			"id": 1
+		},
+		{
+			"method":"mkdir values",
+			"id": 2
+		},
+		{
+			"method":"mkdir records",
+			"id": 3
+		},
+		{
+			"method":"cd data",
+			"id": 4
+		},
+		{
+			"method":"cd ../records",
+			"id": 5
+		},
+		{
+			"method":"pwd",
+			"id": 6
+		},
+		{
+			"method":"rmdir records",
+			"id": 7
+		},
+		{
+			"method":"touch test",
+			"id": 8
+		},
+		{
+			"method":"mkdir data",
+			"id": 9
+		},
+		{
+			"method":"mv pear new_pear",
+			"id": 10
+		},
+		{
+			"method":"date -u",
+			"id": 11
+		},
+		{
+			"method":"uptime",
+			"id": 12
+		},
+		{
+			"method":"hostname -A",
+			"id": 13
+		},
+		{
+			"method":"ping www.smartjoules.co.in",
+			"id": 14
+		},
+		{
+			"method":"mk info",
+			"id": 15
+		},
+		{
+			"method":"rem info",
+			"id": 16
+		}				
+	]
+}
